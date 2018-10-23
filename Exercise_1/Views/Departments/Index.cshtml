@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Exercise_1.Models.Department>
+
+@{
+    ViewData["Title"] = "Departments";
+}
+<hr />
+<div class="col-md-3"></div>
+<div class="col-md-6">
+
+    <h2>Wydziały</h2>
+
+    <p>
+        @if (User.IsInRole("Admin"))
+        {
+            <a class="btn btn-primary" asp-action="Create">Dodaj</a>
+        }
+    </p>
+    <hr/>
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Budżet</th>
+            <th>Data rozpoczęcia</th>
+            <th>Wykładowca</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Budget)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Administrator.FullName)
+                </td>
+                <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.DepartmentID">Edycja</a>
+                        <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.DepartmentID">Szczegóły</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.DepartmentID">Usuń</a>
+                    }
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

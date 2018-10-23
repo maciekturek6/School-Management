@@ -1,0 +1,63 @@
+﻿@model Exercise_1.Models.Student
+    
+
+@{
+    ViewData["Title"] = "Details";
+}
+<hr/>
+<div class="col-md-3"></div>
+<h2>Szczegóły</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nazwisko
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            Imię
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstMidName)
+        </dd>
+        <dt>
+            Data rekrutacji
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EnrollmentDate)
+        </dd>
+        <dt>
+            Stopnie
+        </dt>
+        <dd>
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <th>Tytuł Kursu</th>
+                    <th>Ocena</th>
+                </tr>
+                @foreach (var item in Model.Enrollments)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Course.Title)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Grade)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.ID">Edycja</a> |
+    <a class="btn btn-default" asp-action="Index">Wróć do Listy</a>
+</div>
+
+
+

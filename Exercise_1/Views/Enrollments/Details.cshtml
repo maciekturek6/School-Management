@@ -1,0 +1,38 @@
+﻿@model Exercise_1.Models.Enrollment
+
+@{
+    ViewData["Title"] = "Szczegóły";
+}
+<hr/>
+<div class="col-md-3"></div>
+<h2>Szczegóły</h2>
+
+<div>
+    <div class="col-md-3"></div>
+    <h4>Oceny</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Ocena
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Grade)
+        </dd>
+        <dt>
+           Kurs
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Course.CourseID)
+        </dd>
+        <dt>
+            Student
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Student.LastName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.EnrollmentID">Edycja</a> |
+    <a  class="btn btn-default" asp-action="Index">Wróć do Listy</a>
+</div>

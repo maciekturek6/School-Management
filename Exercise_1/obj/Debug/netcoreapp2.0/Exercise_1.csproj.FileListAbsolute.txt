@@ -1,0 +1,60 @@
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\bin\Debug\netcoreapp2.0\configuration.xml
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.deps.json
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.json
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.dev.json
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfo.cs
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\source\repos\1_FirstSolution\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\bin\Debug\netcoreapp2.0\configuration.xml
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.deps.json
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.json
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.dev.json
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Egzamin_5\Exam_5_zadanie7\Exercise_7\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\configuration.xml
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.deps.json
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.json
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.dev.json
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\OneDrive\Pulpit\Własne projekty\Dwa projekty MVC\MVC-Projects\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\configuration.xml
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.deps.json
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.json
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.dev.json
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfo.cs
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\Music\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.AssemblyInfo.cs
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\obj\Debug\netcoreapp2.0\Exercise_1.pdb
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\configuration.xml
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.deps.json
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.json
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.runtimeconfig.dev.json
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.dll
+C:\Users\macie\Videos\Logowanie_i_rejestracja\Exercise_1\bin\Debug\netcoreapp2.0\Exercise_1.pdb

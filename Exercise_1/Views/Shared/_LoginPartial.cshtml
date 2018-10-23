@@ -1,0 +1,24 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Exercise_1.Models
+
+<<div class="navbar-collapse collapse">
+    @*<ul class="nav navbar-nav">
+            <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li><a asp-area="" asp-controller="Role" asp-action="Index">Roles</a></li>
+            }
+        </ul>*@
+    <ul class="nav navbar-nav navbar-right">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <li><a href="">Cześć @User.Identity.Name,</a></li>
+            <li><a asp-area="" asp-controller="Account" asp-action="Logout"><span class="glyphicon glyphicon-log-out"></span> Log out</a></li>
+        }
+        else
+        {
+            <li><a asp-area="" asp-controller="Account" asp-action="Login"><span class="glyphicon glyphicon-user"></span> Log in</a></li>
+            <li><a asp-area="" asp-controller="Account" asp-action="Register"><span class="glyphicon glyphicon-log-in"></span> Register</a></li>
+        }
+    </ul>
+</div>

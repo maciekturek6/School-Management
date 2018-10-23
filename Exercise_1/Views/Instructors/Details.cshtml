@@ -1,0 +1,45 @@
+﻿@model Exercise_1.Models.Instructor
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<hr />
+
+<div>
+    <div class="col-md-3"></div>
+    
+        <h2>Szczegóły - Wykładowca</h2>
+ 
+
+        <hr />
+   
+    <dl class="dl-horizontal">
+        <dt>
+            Nazwisko
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            Imię
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstMidName)
+        </dd>
+        <dt>
+            Data zatrudnienia
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HireDate)
+        </dd>
+    </dl>
+
+</div>
+<div>
+    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.ID">Edycja</a> |
+    <a class="btn btn-default" asp-action="Index">Wróć do Listy</a>
+</div>
+
+
+

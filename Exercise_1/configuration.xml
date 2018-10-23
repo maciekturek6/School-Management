@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <ConnectionStrings>
+    <DefaultConnection>Data Source=LAPTOP-IGM2F7FV\SQLEXPRESS;Initial Catalog=School2;Integrated Security=True</DefaultConnection>
+  </ConnectionStrings>
+</Configuration>

@@ -1,0 +1,37 @@
+﻿@model Exercise_1.Models.Enrollment
+
+@{
+    ViewData["Title"] = "Usuń";
+}
+<hr/>
+<div class="col-md-3"></div>
+<h3>Na pewno chcesz usunąć?</h3>
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Ocena
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Grade)
+        </dd>
+        <dt>
+            Kurs
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Course.CourseID)
+        </dd>
+        <dt>
+            Student
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Student.LastName)
+        </dd>
+    </dl>
+    <div>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="EnrollmentID" />
+        <input type="submit" value="Usuń" class="btn btn-danger" /> |</form> <a class="btn btn-default" asp-action="Index">Wróć do Listy</a>
+</div>
+</div>
